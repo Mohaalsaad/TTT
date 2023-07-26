@@ -22,9 +22,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    
-    
-    @IBAction func buttonPr(_ sender: UIButton) {
+        @IBAction func buttonPr(_ sender: UIButton) {
         
               if (myBoard[sender.tag-1]==0 && stopTheGame == false ){
                   
