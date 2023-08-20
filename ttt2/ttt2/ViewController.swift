@@ -50,10 +50,7 @@ class ViewController: UIViewController {
                 endGame.text = "Red is Win ! "
                         
                        }
-                       
-                       
                    }
-                   
                }
                
            }
